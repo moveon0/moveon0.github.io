@@ -12,9 +12,9 @@ project_entries:
     url: overview-post
     desc: assem 동아리<br>웹프로그래밍부 지원
 
-  - title: next to,,,
+  - title: next...
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 나만의 웹페이지 만들기
 
   - title: Project 4
     url: overview-post
@@ -37,22 +37,14 @@ old_project_entries:
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  
 
 footer_entries:
   - title: abhinav's homepage
     url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
     url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
