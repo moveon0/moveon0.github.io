@@ -2,7 +2,8 @@ title: moveon0's portfolio
 author: moveon0
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  웹개발부 지원용 포트폴리오 페이지<dr>
+  웹개발부 지원용 포트폴리오 페이지<dr><dr> -2022년: 경동대학교 컴퓨터공학부 입학<dr> -2023년: assem 웹개발부 포트폴리오용 블로그 제작
+  
 
 permalink: /:slug
 
