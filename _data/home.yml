@@ -2,22 +2,16 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
+  - title: 2022
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: 경동대학교 컴퓨터공학과 입학
 
-  - title: Project 2
+  - title: 2023
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: assem 동아리 웹프로그래밍부원지원
 
-  - title: Project 3
+  - title: next to,,,
     url: overview-post
     desc: You can control visibility from _config.yml file
 
@@ -26,14 +20,7 @@ project_entries:
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
