@@ -22,7 +22,7 @@ old_project_entries:
   - title: sports
     url: https://www.soopr.co
     desc: badminton, football
-    highlight: NEW
+    
 
   - title: game
     url: https://github.com/abhinavs/cookie
