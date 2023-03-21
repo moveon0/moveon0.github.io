@@ -16,24 +16,19 @@ project_entries:
     url: overview-post
     desc: 나만의 웹페이지 만들기
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
 
 
-
-old_project_entries:
-  - title: Soopr
+hobby:
+  - title: badminton
     url: https://www.soopr.co
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: Cookie
+  - title: game
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
+  - title: 
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
