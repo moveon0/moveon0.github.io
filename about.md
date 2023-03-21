@@ -3,6 +3,8 @@ layout: post
 title: About
 ---
 
-This is an example page!
+-name:yun young jin
+-age:21
+-mbti:infp
 
-Actually, it has the same layout of a post...
+favorite song: 첫사랑-
