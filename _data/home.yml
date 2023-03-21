@@ -8,7 +8,7 @@ project_entries:
     url: overview-post
     desc: Python, C
 
-  - title: 2023
+  - title: assem
     url: overview-post
     desc: assem 동아리<br>웹프로그래밍부 지원
 
@@ -21,20 +21,14 @@ project_entries:
 old_project_entries:
   - title: sports
     url: https://www.soopr.co
-    desc: badminton, football
+    desc: 배드민턴, 축구
     
 
   - title: game
     url: https://github.com/abhinavs/cookie
-    desc: lol,valorant<br>fifa online 4
+    desc: 롤, 피파 등등...
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  
 
   
 
