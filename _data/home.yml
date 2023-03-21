@@ -5,27 +5,27 @@ navbar_entries:
 
 project_entries:
   - title: 프로그래밍 언어
-    url: overview-post
+    url: https://moveon0.github.io/
     desc: Python, C
 
   - title: assem
-    url: overview-post
+    url: https://moveon0.github.io/
     desc: assem 동아리<br>웹프로그래밍부 지원
 
   - title: next...
-    url: overview-post
+    url: https://moveon0.github.io/
     desc: 나만의 웹페이지 만들기
 
 
 
 old_project_entries:
   - title: sports
-    url: https://www.soopr.co
+    url: https://moveon0.github.io/
     desc: 배드민턴, 축구
     
 
   - title: game
-    url: https://github.com/abhinavs/cookie
+    url: https://www.op.gg/summoners/kr/%EC%95%88%EC%A0%95%EA%B9%80
     desc: 롤, 피파 등등...
 
   
