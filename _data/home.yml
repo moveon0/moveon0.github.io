@@ -5,22 +5,22 @@ navbar_entries:
 
 project_entries:
   - title: 프로그래밍 언어
-    url: https://moveon0.github.io/
+    url: overview-post
     desc: Python, C
 
   - title: assem
-    url: https://moveon0.github.io/
+    url: overview-post
     desc: assem 동아리<br>웹프로그래밍부 지원
 
   - title: next...
-    url: https://moveon0.github.io/
+    url: overview-post
     desc: 나만의 웹페이지 만들기
 
 
 
 old_project_entries:
   - title: sports
-    url: https://moveon0.github.io/
+    url: https://www.google.com/search?q=%ED%86%A0%ED%8A%B8%EB%84%98&source=lmns&bih=916&biw=1707&hl=ko&sa=X&ved=2ahUKEwiWkY-O0ez9AhVApFYBHd0-D2UQ_AUoAHoECAEQAA
     desc: 배드민턴, 축구
     
 
