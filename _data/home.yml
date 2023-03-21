@@ -36,14 +36,14 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
+  - title: sports
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: badminton,football
     highlight: NEW
 
-  - title: Cookie
+  - title: game
     url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: lol,valorant<br>fifa online 4
 
   - title: Moonwalk
     url: https://github.com/abhinavs/moonwalk
