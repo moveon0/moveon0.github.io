@@ -18,16 +18,23 @@ project_entries:
 
 
 
- old_project_entries:
-  - title: sports
+old_project_entries:
+  - title: Soopr
     url: https://www.soopr.co
-    desc: badminton, billiards, soccer 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
     highlight: NEW
 
-  - title: game
+  - title: Cookie
     url: https://github.com/abhinavs/cookie
-    desc: lol, volant, fifaonline 4
+    desc: An open source landing website with supporting pages and integrated blog
 
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
 
   
 
