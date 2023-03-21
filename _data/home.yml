@@ -18,7 +18,7 @@ project_entries:
 
 
 
-hobby:
+ project_entries:
   - title: sports
     url: https://www.soopr.co
     desc: badminton, billiards, soccer 
