@@ -19,18 +19,15 @@ project_entries:
 
 
 hobby:
-  - title: badminton
+  - title: sports
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: badminton, billiards, soccer 
     highlight: NEW
 
   - title: game
     url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: lol, volant, fifaonline 4
 
-  - title: 
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   
 
